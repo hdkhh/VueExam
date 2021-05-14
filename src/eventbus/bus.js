@@ -5,5 +5,4 @@ export const EventBus = new Vue({
     ExampleFunction(data) {
         this.$emit('ex', data)
     },
-    
 })
