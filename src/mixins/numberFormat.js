@@ -1,4 +1,4 @@
-export const numberFormat = {
+const numberFormat = {
     data () {
         return {
 
@@ -14,3 +14,5 @@ export const numberFormat = {
         } 
     }
 }
+
+export default numberFormat
