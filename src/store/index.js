@@ -1,5 +1,5 @@
-import { createApp } from 'vue'
-import { createStore } from 'vuex'
+// import { createApp } from 'vue'
+// import { createStore } from 'vuex'
 // createApp(App).use(createStore)
 
 // 생성한 모듈 가져오기
